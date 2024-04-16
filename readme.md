@@ -1,4 +1,4 @@
-# Bike Sales Dashboard Project in Tableawu
+# Video games Sales Dashboard Project in Tableau
 
 ## Overview
 This Tableau project focuses on analyzing global video game sales data. The dataset includes information such as game rank, name, platform, release year, genre, publisher, and sales figures for different regions.
